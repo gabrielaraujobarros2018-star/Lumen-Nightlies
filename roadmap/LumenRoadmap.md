@@ -8,17 +8,6 @@ Bug Fixes are not included in the Roadmap.
 
 After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 is the final internal build), Lumen will continue from Official 1.0, 2.0, 3.0, 4.0, and more in **Yearly releases**, plus incremental builds, such as .1, .2, .3, and .4.
 
-LumenGUI is a Prototype. Aerialhiss UI is the Complete GUI.
-
-## Late M2 (Pre-release M2)
-- Lumen ABI 0.3
-- LumenGUI 0.5
-- Lumen API 0.3
-- Palikey changes
-- Floating Keyboard
-- Media Services 1.0
-- Aluminum UI 0.3 (With default resolution 480x800px and 780p support only)
-
 ## M3
 - API Changes
 - Framework Changes
