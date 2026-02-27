@@ -8,7 +8,7 @@ Bug Fixes are not included in the Roadmap.
 
 After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 is the final internal build), Lumen will continue from Official 1.0, 2.0, 3.0, 4.0, and more in **Yearly releases**, plus incremental builds, such as .1, .2, .3, and .4.
 
-## M3
+## M3 (Not completely followed)
 - API Changes
 - Framework Changes
 - LumenGUI 1.0
@@ -19,7 +19,7 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - User Safety Measures 1.0
 - QEMU Support
 
-## M5
+## M5 (in progress)
 - Lumen API 0.9
 - Aluminum UI 0.6
 - LTK 0.5 (Lumen ToolKit)
@@ -39,7 +39,7 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - Video editor
 - Lumen ABI 0.8
 
-## Alphis V1
+## Alphis V1 (under preview)
 - Improved Memory management
 - Runtime Improvements
 - Sudoku games
@@ -47,7 +47,7 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - Debug Tools 2.0
 - APITK 2.0
 - LTK 1.0
-- Phone support ended
+- Phone support ended entirely (or maybe)
 
 ## Alphis V2
 - UID Management improvements
@@ -72,9 +72,8 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - Airplane mode
 - location mode
 - Lumen Account
-- Auto rotation mode
+- Vertical mode for vertical monitors
 - Lumen ABI 1.0
-- Galaxy A05S support (Beta)
 
 ## Alphis V5
 - Lumen ABI 1.5
@@ -87,24 +86,21 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - Added PC Keyboard Keys to Palikey (PgDn, PgUp, Arrow Up, Arrow Down, Arrow Left, Arr Right, Ctrl, Alt)
 - Lumen ABI 2.0
 - Runtime 2.0
-- Gave Runtime a Name (LRT. LRT = LumenRuntime)
 
 ## DP-1
 - Userland Complete. (UsrL 1.0)
 - Lumen ABI 2.5
 - LumenGUI 3.0
 - Text editor
-- Full galaxy a05s support
 
 ## DP-5
 - Settings app 2.0
 - Camera app 1.0
-- Aerialhiss UI 1.0
 
 ## DP-8
 - Lumen ABI 3.0
 - Lumen API 2.0
-- Userland 2.0
+- Userland 2.0 (more GNOME modules)
 - More frameworks
 - More internal APIs
 
