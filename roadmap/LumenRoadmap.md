@@ -67,6 +67,7 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - Lumitube 1.0 (Uses `invidious` api)
 - Caffeine mode
 - Improved wifi and Bluetooth functionality
+- GPU Acceleration
 
 ## Alphis V4
 - Airplane mode
@@ -74,6 +75,11 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - Lumen Account
 - Vertical mode for vertical monitors
 - Lumen ABI 1.0
+- Stable suspend/resume
+- Test: GPU acceleration working cleanly
+- Test: Firmware availability
+- Test: Power management behaving correctly
+- Test: No weird ACPI edge cases
 
 ## Alphis V5
 - Lumen ABI 1.5
