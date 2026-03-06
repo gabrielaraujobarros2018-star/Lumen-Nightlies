@@ -19,7 +19,7 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - User Safety Measures 1.0
 - QEMU Support
 
-## M5 (in progress)
+## M5 (Done)
 - Lumen API 0.9
 - Aluminum UI 0.6
 - LTK 0.5 (Lumen ToolKit)
@@ -31,7 +31,7 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - APITK (API ToolKit)
 - Debug Tools 1.0
 
-## M8
+## M8 (in Progress)
 - Hardened Security
 - LumenGUI 2.0
 - 1080p Resolution support
@@ -55,6 +55,7 @@ After Lumen's internal Builds reaches its final build (Which is DP-11 and DP-11 
 - DPI & Font Scaling Options
 - Dark mode, Light mode, and Custom themes Options
 - Settings App 1.0
+- Replacing APT with Portage (gnome-software don't support Portage; Remove gnome-software entirely. Users will now have to install apps using a terminal)
 - Authentication Options
 - Security locks Options: PIN, Alphabetical Passwords, Pattern (2x2 to 6x6. We strongly discourage 2x2 patterns!)
 
